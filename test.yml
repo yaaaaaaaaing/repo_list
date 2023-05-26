@@ -1,0 +1,10 @@
+repos:
+    #  <project name="module1"/>
+  - dest: m1_f
+    url: git@github.com:yaaaaaaaaing/module1.git
+    branch: main
+
+    #  <project name="module2"/>    
+  - dest: m2_f
+    url: git@github.com:yaaaaaaaaing/module2.git
+    branch: mian
