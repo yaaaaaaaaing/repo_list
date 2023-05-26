@@ -7,4 +7,4 @@ repos:
     #  <project name="module2"/>    
   - dest: m2_f
     url: git@github.com:yaaaaaaaaing/module2.git
-    branch: mian
+    branch: main
